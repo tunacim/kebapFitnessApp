@@ -6,7 +6,8 @@
 -Added alert for empty information.
 
 Welcome Screen:
-![Simulator Screen Shot - iPhone 14 - 2023-03-05 at 21 01 51](https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png)
+<img src="https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png" alt="alt text" width="320" height="180">
+
 
 Register Screen:
 ![Simulator Screen Shot - iPhone 14 - 2023-03-05 at 21 02 19](https://user-images.githubusercontent.com/92800666/222978104-a45f9acd-838b-4f8b-bd95-002a31345c39.png)
