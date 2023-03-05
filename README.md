@@ -5,8 +5,8 @@
 -navigation structure and switching between pages are used.
 -Added alert for empty information.
 
-Welcome Screen:
-<img src="https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png" alt="alt text" width="200" height="450">
+
+ Welcome Screen:<img src="https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png" alt="alt text" width="200" height="450">
 
 
 Register Screen:
