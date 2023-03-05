@@ -6,7 +6,7 @@
 -Added alert for empty information.
 
 Welcome Screen:
-<img src="https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png" alt="alt text" width="320" height="180">
+<img src="https://user-images.githubusercontent.com/92800666/222978076-951f757d-1760-41a7-96a5-e7766099c425.png" alt="alt text" width="200" height="450">
 
 
 Register Screen:
